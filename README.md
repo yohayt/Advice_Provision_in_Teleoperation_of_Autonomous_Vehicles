@@ -18,6 +18,10 @@ https://carla-scenariorunner.readthedocs.io/en/latest/getting_scenariorunner/
 # Running instructions:
 # 
 
+# 
+# Environment variables:
+# 
+
 export CARLA_ROOT=YOUR_CARLA_INSTALLATION_DIRECTORY
 export SCENARIO_RUNNER_ROOT=${CARLA_ROOT}/scenario_runner
 export PYTHONPATH=$PYTHONPATH:${CARLA_ROOT}/PythonAPI/carla/dist/carla-0.9.10-py3.7-linux-x86_64.egg
